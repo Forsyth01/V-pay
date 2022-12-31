@@ -4,7 +4,7 @@
 
 
 .transition{
-  height: 60vh;
+  /* height: 30vh; */
   width: 100%;
   background-image: url("../public/Images/transaction.jpg");
   background-size: cover;

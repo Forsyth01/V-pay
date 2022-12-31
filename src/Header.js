@@ -4,7 +4,7 @@ import Affliate from './Affliate';
 const Header = () => {
     return (
         <div>
-            <div className="m-auto w-[85%] py-20">
+            <div className="m-auto w-[85%] md:py-20 py-[20px]">
                 <div className="md:flex items-center gap-5 space-y-10 md:space-y-0">
                     <div className="w-[100%] space-y-3">
                         <h1 className="font-bold text-4xl">The fastest and easiet way to send and receive money anywhere!</h1>
@@ -15,7 +15,7 @@ const Header = () => {
                         </div>
                     </div>
                     <div className="w-[100%]">
-                        <img src="/Images/176.png" alt="" className="h-[50vh] object-cover" />
+                        <img src="/Images/176.png" alt="" className=" object-cover" />
                     </div>
                 </div>
             </div>

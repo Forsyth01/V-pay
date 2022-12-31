@@ -11,7 +11,7 @@ const Section = () => {
                     <p className="text-center md:w-[50%] m-auto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat tempore cum nesciunt vero commodi sint.</p>
                 </div>
                 <div className="my-3">
-                    <div className="transition object-cover w-[100%]" />
+                    <div className="transition object-cover w-[100%] md:h-[50vh] h-[30vh]" />
                 </div>
             </div>
         </div>

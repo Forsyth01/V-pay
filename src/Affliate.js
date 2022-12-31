@@ -25,10 +25,6 @@ const Affliate = () => {
                     <i className=""></i>
                     <h1 className="font-bold text-xl">Flutterwave</h1>
                 </div>
-                <div className="flex items-center">
-                    <i className=""></i>
-                    <h1 className="font-bold text-xl">Tech hub</h1>
-                </div>
             </div>
         </div>
     );
